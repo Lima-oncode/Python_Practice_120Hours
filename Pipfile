@@ -13,6 +13,9 @@ jupyter = "*"
 matplotlib = "*"
 lxml = "*"
 html5lib = "*"
+pyspark = "*"
+findspark = "*"
+psycopg2 = "*"
 
 [dev-packages]
 

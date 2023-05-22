@@ -12,6 +12,3 @@ import pandas as pd
 # A leitura do arquivo excel necessita de seu caminho absoluto
 df1 = pd.read_excel('C:/Users/BlueShift/Desktop/FMQ/ARQUIVOS_FQM_RX/fqm_2022_01_fqm-estrutura_1964 (3).xlsx')
 print(df1)
-
-
-
