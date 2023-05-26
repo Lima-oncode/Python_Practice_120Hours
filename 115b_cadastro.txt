@@ -1,0 +1,3 @@
+lucas;24
+seuzé;55
+chico;60
